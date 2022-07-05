@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="21954dba-a0b9-40ad-ac3a-05e1fe7b208d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -20,15 +23,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectId" id="2BWYz2UTUMsE4j0GTvruAPPb2W7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -37,6 +42,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+>>>>>>> ef92ad99586dec5f0f211cd307c774c0d59baab8
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,14 +53,22 @@
       <updated>1657023568161</updated>
       <workItem from="1657023569835" duration="2139000" />
       <workItem from="1657023569835" duration="1046000" />
-      <workItem from="1657025422903" duration="102000" />
     </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00001" summary="this commit by elnura2">
+      <created>1657026979513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657026979513</updated>
+=======
     <task id="LOCAL-00001" summary="commit">
       <created>1657025036047</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1657025036047</updated>
+>>>>>>> ef92ad99586dec5f0f211cd307c774c0d59baab8
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -72,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this commit by elnura2" />
+    <option name="LAST_COMMIT_MESSAGE" value="this commit by elnura2" />
   </component>
 </project>

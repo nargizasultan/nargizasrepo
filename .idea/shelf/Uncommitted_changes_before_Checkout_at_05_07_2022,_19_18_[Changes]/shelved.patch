@@ -1,0 +1,25 @@
+Index: src/Nargiza.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Nargiza {\n    public static void nargiza(){\n        System.out.println\n                (\"Hello my name is nargiza\");\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Nargiza.java b/src/Nargiza.java
+--- a/src/Nargiza.java	(revision fb38bd73af3eb978e74dd0aba7db3f0685b33139)
++++ b/src/Nargiza.java	(date 1657027060499)
+@@ -2,5 +2,14 @@
+     public static void nargiza(){
+         System.out.println
+                 ("Hello my name is nargiza");
++
++
++
++
++
++
++
++
++        System.out.println("My name is Elnura");
+     }
+ }
